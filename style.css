@@ -50,7 +50,7 @@
 }
 
 .list-item,
-.list-title {
+.list-title{
   list-style: none;
 }
 
@@ -59,7 +59,7 @@
   outline: none;
 }
 
-.btn {
+.btn{
   background: none;
   border: 0px;
   color: #888;
